@@ -1,2 +1,3 @@
-# PaginaWeb
-Pagina Web de WordPress
+# INSTALACIÓN Y CONFIGURACIÓN WORDPRESS
+
+## Descripción del proyecto
