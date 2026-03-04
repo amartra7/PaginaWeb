@@ -20,9 +20,9 @@ En mi pagina web de WordPress podrás encontrar todas las noticias mas recientes
 
 El portal esta organizado de tal manera que en su pagina principal tengas las diferentes secciones a mano y organizado tal asi como si fueran noticias (News)
 
-### Paginas
+## Paginas
 
-1. **Pagina 1**
+### 1. **Página 1**
 
 - Información sobre los videojuegos más recientes;
 
@@ -30,7 +30,7 @@ El portal esta organizado de tal manera que en su pagina principal tengas las di
 
 En esta página esta la información sobre 3 videojuegos recientes de pokémon, los cuales són; Leyendas Z-A, Pokopia, Gen 10
 
-2. **Pagina 2**
+### 2. **Página 2**
 
 - Noticias sobre el (TCG) Juego de cartas Pokémon;
 
@@ -38,7 +38,7 @@ En esta página esta la información sobre 3 videojuegos recientes de pokémon, 
 
 En esta otra página tendras al igual que la anterior 3 secciones con información y news sobre el mundo del TCG (Trading Card Game)
 
-3. **Pagina 3**
+### 3. **Página 3**
 
 - Información adicional de Pokémon;
 
